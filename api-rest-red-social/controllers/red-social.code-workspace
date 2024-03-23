@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "api-rest-red-social",
+			"path": ".."
+		},
+		{
+			"name": "front-red-social",
+			"path": "../../front-red-social"
+		}
+	],
+	"settings": {}
+}
